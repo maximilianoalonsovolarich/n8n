@@ -31,7 +31,7 @@ export class ExactOnlineOAuth2Api implements ICredentialType {
 
 	documentationUrl = 'exactonline';
 
-	icon = 'file:icons/ExactOnline.svg';
+	// icon = 'file:icons/ExactOnline.svg'; // Icon can be added later
 
 	properties: INodeProperties[] = [
 		{
